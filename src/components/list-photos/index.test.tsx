@@ -8,7 +8,7 @@ describe('Testing ListPhotos', () => {
         render(<ListPhotos items={[]} />)
     })
 
-    it('expect img to have changed src', () => {
+    it('expect img to has changed src', () => {
         render(<ListPhotos items={fakeItems} />)
 
         const img = screen.getByTestId(fakeItems[0].id)
