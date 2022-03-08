@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/recruitment-tast-fetch-photos/static/css/main.a7dccc8a.css",
-    "main.js": "/recruitment-tast-fetch-photos/static/js/main.6507b917.js",
+    "main.js": "/recruitment-tast-fetch-photos/static/js/main.1a141f85.js",
     "index.html": "/recruitment-tast-fetch-photos/index.html",
     "main.a7dccc8a.css.map": "/recruitment-tast-fetch-photos/static/css/main.a7dccc8a.css.map",
-    "main.6507b917.js.map": "/recruitment-tast-fetch-photos/static/js/main.6507b917.js.map"
+    "main.1a141f85.js.map": "/recruitment-tast-fetch-photos/static/js/main.1a141f85.js.map"
   },
   "entrypoints": [
     "static/css/main.a7dccc8a.css",
-    "static/js/main.6507b917.js"
+    "static/js/main.1a141f85.js"
   ]
 }
