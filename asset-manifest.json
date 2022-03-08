@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workate/static/css/main.a7dccc8a.css",
+    "main.js": "/workate/static/js/main.c9ef3c82.js",
+    "index.html": "/workate/index.html",
+    "main.a7dccc8a.css.map": "/workate/static/css/main.a7dccc8a.css.map",
+    "main.c9ef3c82.js.map": "/workate/static/js/main.c9ef3c82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7dccc8a.css",
+    "static/js/main.c9ef3c82.js"
+  ]
+}
